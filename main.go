@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	handler "local/pg-widget-api/services"
+	handler "github.com/scblur869/pg-widget-api/services"
 
 	"log"
 	"net/http"

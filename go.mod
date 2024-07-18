@@ -1,4 +1,4 @@
-module local/pg-widget-api
+module github.com/scblur869/pg-widget-api
 
 go 1.21.3
 

@@ -2,9 +2,10 @@ package services
 
 import (
 	"fmt"
-	"local/pg-widget-api/structs"
 	"net/http"
 	"os"
+
+	"github.com/scblur869/pg-widget-api/structs"
 
 	"github.com/gin-gonic/gin"
 )
